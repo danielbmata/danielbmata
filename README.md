@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">About me:</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="center">Stats:</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="center">Social Media:</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
@@ -53,9 +53,7 @@
   <a href="https://www.linkedin.com/in/danielbmata/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
   </a>
-  <a href="danielmatabatista@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo"  />
-  </a>
+  
 </div>
 
 ###
