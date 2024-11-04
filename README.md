@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me:</h2>
 
 ###
 
@@ -25,14 +25,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Stats:</h2>
 
 ###
 
@@ -45,7 +49,7 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Social Media:</h2>
 
 ###
 
@@ -53,7 +57,6 @@
   <a href="https://www.linkedin.com/in/danielbmata/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
   </a>
-  
 </div>
 
 ###
