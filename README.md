@@ -43,6 +43,7 @@
   <a href="mailto:d7mata@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo" />
   </a>
+  <i>d7mata@gmail.com</i>
 </div>
 
 ###
