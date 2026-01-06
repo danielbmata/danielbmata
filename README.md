@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Hi! 👋 I’m Daniel, a final-year Systems Analysis and Development student from Bahia, Brazil. Currently, I’m focused on building my frontend skills, especially with JavaScript. My background includes some Python/Django, but I’m eager to dive deeper into web development.</p>
+<p align="center">Expressando ideias através de códigos</p>
 
 ###
 
@@ -42,13 +42,13 @@
 
 ###
 
-<h2 align="center">Social Media:</h2>
+<h2 align="center">E-mail:</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/danielbmata/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
+  <a href="mailto:d7mata@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo" />
   </a>
 </div>
 
