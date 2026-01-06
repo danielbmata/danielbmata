@@ -35,13 +35,6 @@
 ###
 
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbmata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielbmata&radius=12&theme=high-contrast&area=true&order=5" height="289" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="center">E-mail:</h2>
 
 ###
